@@ -75,3 +75,11 @@ This app is for general informational purposes only and not a substitute for pro
 Always consult a healthcare provider for serious or urgent symptoms.
 
 Keep your API keys safe and never commit .env to GitHub.
+
+
+
+
+
+Output :
+<img width="1798" height="615" alt="image" src="https://github.com/user-attachments/assets/4d9aacfb-9b8b-455f-8280-6cab42a295c1" />
+
